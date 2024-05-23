@@ -16,11 +16,11 @@ permalink: /oceanverse/
 
 * Plot two vectors $$u=⟨3,−2⟩$$ and $$v=⟨−1,5⟩$$.  
 
-3.Find the angle between them.  
+* Find the angle between them.  
 
-4.Construct a perpendicular bisector of a given segment whose end points are $$(0,6)$$ and $$(6,0)$$.  
+* Construct a perpendicular bisector of a given segment whose end points are $$(0,6)$$ and $$(6,0)$$.  
 
-5.Plot line $$y=3x$$.  
+* Plot line $$y=3x$$.  
 
 6.Graph the equation y=2x+3 over the interval [−5,5] and find the points where the graph intersects the x-axis and y-axis.  
 
